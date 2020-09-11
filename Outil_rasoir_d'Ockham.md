@@ -9,6 +9,7 @@
 <h2>Le principe de parcimonie : le rasoir d'Ockham</h2>
 
 <h3>Qu'est-ce que le rasoir d'Ockham ?</h3>
+
 Le rasoir d'Ockham est un **principe de raisonnement** hérité du **moine philosophe de tradition franciscaine Guillaume d'Ockham**. Ce terme de rasoir est adapté à ce concept car il a pour objectif d'aider à trancher entre plusieurs hypothèses.
 C'est un principe de bon sens qui est utilisé dans **la vie courante** sans être nommé comme tel.
 
