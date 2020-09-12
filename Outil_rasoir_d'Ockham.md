@@ -1,6 +1,6 @@
 <h2>Résumé de l'épisode précédent :</h2>
 
-*Lors de l'article traité par Journalistes Solidaires intitulé «[Le pape François est-il apparu sous la forme d'un hologramme ?»](https://journalistessolidaires.com/publications/preview/rec0EjIO5RCZeoNd3), il avait été conclu que cette affirmation était essentiellement fausse. En employant strictement les techniques de fact checking, il était impossible de trancher sur la véracité de cette affirmation.*
+*Lors de l'article traité par Journalistes Solidaires intitulé «[Le pape François est-il apparu sous la forme d'un hologramme ?](https://journalistessolidaires.com/publications/le-pape-francois-est-apparu-sous-forme-hologramme/rec0EjIO5RCZeoNd3)», il avait été conclu que cette affirmation était essentiellement fausse. En employant strictement les techniques de fact checking, il était impossible de trancher sur la véracité de cette affirmation.*
 
 *En effet, dans certains cas, il peut être nécessaire de se prononcer sur le fait qu'une information, dans l'état actuel des connaissances, est à considérer comme vraie ou comme fausse.*
 
